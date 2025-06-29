@@ -31,7 +31,7 @@ pip install pyfiglet rich
 git clone https://github.com/DHThackers-10/DHT-BGMI-PHISH.git
 cd DHT-BGMI-PHISH
 chmod +x *
-bash start.sh
+bash setup.sh
 ```
 
 ---
@@ -40,12 +40,7 @@ bash start.sh
 
 > **Tool Startup Interface**
 
-![DHT BGMI](https://github.com/user-attachments/assets/e51fbcb4-a173-4300-a33b-2925834d5184)
-
-> **Live Victim Log Display**
-
-![Victim Log](https://github.com/user-attachments/assets/e51fbcb4-a173-4300-a33b-2925834d5184)
-
+![DHT BGMI](
 ---
 
 # ⚙️ Features
