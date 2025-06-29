@@ -27,7 +27,7 @@ def intro():
     time.sleep(3)
     clear()
     banner("DHT BGMI", "bold green")
-    console.print(Panel("[bold cyan]>> By ALI SABRI | Hackers Colony Official <<[/]"))
+    console.print(Panel("[bold cyan]>> By ALI SABRI | DHT-HACKERS <<[/]"))
     console.print(Panel("Tool to Hack BGMI ID via Cloudflare Tunnel", style="bold green"))
 
 def show_menu():
