@@ -40,7 +40,8 @@ bash setup.sh
 
 > **Tool Startup Interface**
 
-![DHT BGMI](
+[DHT BGMI]![Screenshot_20250629-132033](https://github.com/user-attachments/assets/b058a56c-ed39-423b-8a1b-e1e433175050)
+
 ---
 
 # ⚙️ Features
